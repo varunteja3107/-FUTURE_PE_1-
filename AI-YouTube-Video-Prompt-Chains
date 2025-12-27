@@ -1,0 +1,19 @@
+# AI-Powered YouTube Video Creation using Prompt Chains
+
+This project demonstrates how prompt chaining and AI tools can be used to create a complete YouTube video from scratch — including ideation, scripting, thumbnail concepts, and video production.
+
+## 🎯 Objective
+To use prompt chains with AI tools to generate:
+- Engaging YouTube titles
+- A full video script
+- Thumbnail ideas
+- A final AI-edited video
+
+## 🛠 Tools Used
+- ChatGPT – prompt chaining, script & ideas
+- Canva / DALL·E – thumbnail generation
+- Pictory / InVideo – video creation
+- Notion – documentation
+- GitHub – project hosting
+
+## 📁 Project Structure
